@@ -1,0 +1,8 @@
+[project]
+site_url = "https://roman-mendoza.github.io/"
+site_name = "Roman Mendoza's Documentation"
+site_description = "Documentation and notes by Roman Mendoza."
+repo_url = "https://github.com/roman-mendoza/roman-mendoza.github.io"
+nav = [
+  { "Home" = "index.md" },
+]
